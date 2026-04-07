@@ -1,4 +1,4 @@
-**ARYA REAL ESTATE - ARE**
+**TANISH REAL ESTATE**
 
 Designed and developed a real estate website using HTML, CSS, and the Bootstrap framework. This project
 showcases my skills in creating responsive and visually appealing web applications.
